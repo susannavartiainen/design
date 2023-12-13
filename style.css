@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #FAEBD7; 
+    background-color: #556B2F; 
     padding: 10px;
     color: white;
     text-align: center;
@@ -52,7 +52,7 @@ article {
 }
 
 h2 {
-    color: #4CAF50; 
+    color: #556B2F; 
 }
 
 p {
@@ -62,7 +62,7 @@ p {
 .button {
     display: inline-block;
     padding: 8px 12px;
-    background-color: #FAEBD7; 
+    background-color: #556B2F; 
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -74,7 +74,7 @@ p {
 }
 
 footer {
-    background-color: #FAEBD7; 
+    background-color: #556B2F; 
     color: white;
     padding: 10px;
     text-align: center;
